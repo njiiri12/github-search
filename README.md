@@ -12,7 +12,7 @@ HTML
 
 BOOTSTRAP
 
-Angular js
+Angular 
 
 
 ## Known Bugs
