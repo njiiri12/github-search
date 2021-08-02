@@ -21,7 +21,7 @@ No known bugs so far
 
 ## License
 
-Copyright Permission is hereby granted, free of charge, to any person obtaining a copy of this code
+Copyright (c) Permission is hereby granted, free of charge, to any person obtaining a copy of this code
 
 ## Further help
 
