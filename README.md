@@ -10,7 +10,7 @@ A single page application for searching github users and repositories. The site 
 ## Technologies Used
 HTML
 
-BOOTSTRAP
+
 
 Angular js
 
