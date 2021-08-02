@@ -1,0 +1,45 @@
+/*body*/
+.container{
+    margin-top: 5rem;
+}
+p {
+    text-indent: 2rem;
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+.btn{
+    margin-top: 30px;
+    background-color: #056b5b;
+}
+
+.seeMorebtn{
+    text-align: center;
+}
+.display{
+    float: left;
+    margin-bottom: 0.3rem;
+}
+
+/*user form*/
+.search-form p {
+    font-size: 30px;
+    margin: 0;
+    justify-content: left;
+    align-items: left;
+    /*position: sticky;*/
+}
+.form-control::placeholder {
+    font-size: 0.95rem;
+    color: #aaa;
+    font-style: italic;
+  }
+  .form-control:focus {
+    box-shadow: none;
+  }
+  
+  .form-control-underlined {
+    border-width: 0;
+    border-bottom-width: 1px;
+    border-radius: 0;
+    padding-left: 0;
+  }
+
