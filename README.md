@@ -25,4 +25,4 @@ Copyright (c) Permission is hereby granted, free of charge, to any person obtain
 
 ## Further help
 
-contact me for for further help
+contact me for for further help and information
