@@ -1,6 +1,6 @@
 # GithubSearch
 
-Second Independent project for Moringa Core,  1,2018
+Second Independent project for Moringa Core,1st June,2018
 
 
 
